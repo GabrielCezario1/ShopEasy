@@ -68,4 +68,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 ## 🌐 Contato  
 
 Gabriel Vieira  
-[LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gabriel-vieira-4443ba109/))  
+[LinkedIn]([https://www.linkedin.com/in/gabriel-vieira-4443ba109/])  
