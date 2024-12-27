@@ -1,0 +1,17 @@
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.Dominio.deps.json
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.Dominio.dll
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.Dominio.pdb
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.DataTransfer.dll
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.Infra.dll
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.DataTransfer.pdb
+C:\ShopEasy\app.Dominio\bin\Debug\net9.0\app.Infra.pdb
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.csproj.AssemblyReference.cache
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.AssemblyInfoInputs.cache
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.AssemblyInfo.cs
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.csproj.CoreCompileInputs.cache
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Domi.B8D888D3.Up2Date
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.dll
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\refint\app.Dominio.dll
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\app.Dominio.pdb
+C:\ShopEasy\app.Dominio\obj\Debug\net9.0\ref\app.Dominio.dll

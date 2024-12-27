@@ -1,0 +1,11 @@
+C:\ShopEasy\app.DataTransfer\bin\Debug\net9.0\app.DataTransfer.deps.json
+C:\ShopEasy\app.DataTransfer\bin\Debug\net9.0\app.DataTransfer.dll
+C:\ShopEasy\app.DataTransfer\bin\Debug\net9.0\app.DataTransfer.pdb
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.AssemblyInfoInputs.cache
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.AssemblyInfo.cs
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.csproj.CoreCompileInputs.cache
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.dll
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\refint\app.DataTransfer.dll
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\app.DataTransfer.pdb
+C:\ShopEasy\app.DataTransfer\obj\Debug\net9.0\ref\app.DataTransfer.dll

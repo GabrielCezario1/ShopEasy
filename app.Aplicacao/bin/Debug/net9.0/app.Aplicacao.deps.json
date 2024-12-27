@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "app.Aplicacao/1.0.0": {
+        "dependencies": {
+          "app.DataTransfer": "1.0.0",
+          "app.Dominio": "1.0.0",
+          "app.Infra": "1.0.0"
+        },
+        "runtime": {
+          "app.Aplicacao.dll": {}
+        }
+      },
+      "app.DataTransfer/1.0.0": {
+        "runtime": {
+          "app.DataTransfer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "app.Dominio/1.0.0": {
+        "dependencies": {
+          "app.DataTransfer": "1.0.0",
+          "app.Infra": "1.0.0"
+        },
+        "runtime": {
+          "app.Dominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "app.Infra/1.0.0": {
+        "runtime": {
+          "app.Infra.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "app.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "app.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "app.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

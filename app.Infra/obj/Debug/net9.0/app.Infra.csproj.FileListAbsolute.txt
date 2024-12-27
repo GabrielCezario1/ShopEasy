@@ -1,0 +1,11 @@
+C:\ShopEasy\app.Infra\bin\Debug\net9.0\app.Infra.deps.json
+C:\ShopEasy\app.Infra\bin\Debug\net9.0\app.Infra.dll
+C:\ShopEasy\app.Infra\bin\Debug\net9.0\app.Infra.pdb
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.AssemblyInfoInputs.cache
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.AssemblyInfo.cs
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.csproj.CoreCompileInputs.cache
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.dll
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\refint\app.Infra.dll
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\app.Infra.pdb
+C:\ShopEasy\app.Infra\obj\Debug\net9.0\ref\app.Infra.dll
